@@ -1,0 +1,8 @@
+day_of_week,day_of_week_num,avg_very_active_minutes,avg_fairly_active_minutes,avg_lightly_active_minutes,avg_sedentary_minutes,total_records
+Monday,1,23.11,14.0,192.06,1027.94,120
+Tuesday,2,22.95,14.34,197.34,1007.36,152
+Wednesday,3,20.78,13.1,189.85,989.48,150
+Thursday,4,19.41,11.96,185.42,961.99,147
+Friday,5,20.06,12.11,204.2,1000.31,126
+Saturday,6,21.92,15.2,207.15,964.28,124
+Sunday,7,19.98,14.53,173.98,990.26,121
