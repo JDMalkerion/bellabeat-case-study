@@ -11,7 +11,7 @@ import pandas as pd
 import streamlit as st
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
-DB_PATH = REPO_ROOT / "sql" / "bellabeat.db"
+DB_PATH = REPO_ROOT / "sql" / "bellabeat_deploy.db" if (REPO_ROOT / "sql" / "bellabeat_deploy.db").exists() else REPO_ROOT / "sql" / "bellabeat.db"
 ANALYSIS_SQL_PATH = REPO_ROOT / "sql" / "03_analysis.sql"
 
 # Brand colors inspired by Bellabeat's warm aesthetic
