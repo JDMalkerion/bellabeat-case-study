@@ -1,7 +1,7 @@
 # Bellabeat Smart Device Usage Analysis
 
 A full-stack data analytics case study analyzing consumer smart device habits to inform product strategy, digital marketing campaigns, and customer retention for Bellabeat's ecosystem of women's wellness products.
-
+Streamlit Link: (https://bellabeat-case-study-nx5rkmgiwytyxbrd6nxbpj.streamlit.app)
 ---
 
 ## Business Task
